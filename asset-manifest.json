@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SerhiiBrekhov/HW-03-react_findder-t2/static/css/main.7acaea2f.css",
-    "main.js": "/SerhiiBrekhov/HW-03-react_findder-t2/static/js/main.7f244ca3.js",
+    "main.js": "/SerhiiBrekhov/HW-03-react_findder-t2/static/js/main.c952f90b.js",
     "index.html": "/SerhiiBrekhov/HW-03-react_findder-t2/index.html",
     "main.7acaea2f.css.map": "/SerhiiBrekhov/HW-03-react_findder-t2/static/css/main.7acaea2f.css.map",
-    "main.7f244ca3.js.map": "/SerhiiBrekhov/HW-03-react_findder-t2/static/js/main.7f244ca3.js.map"
+    "main.c952f90b.js.map": "/SerhiiBrekhov/HW-03-react_findder-t2/static/js/main.c952f90b.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.7f244ca3.js"
+    "static/js/main.c952f90b.js"
   ]
 }
